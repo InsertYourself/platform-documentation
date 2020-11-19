@@ -161,7 +161,7 @@ To change all of the instances of a template, you will need to deinstance and mo
 
 ### Republish a Shared Template
 
-Updating templates with change all the instances in your game, but to update the version that has been published to **Community Content**, we will need to re-publish the template.
+Updating templates will change all the instances in your game, but to update the version that has been published to **Community Content**, we will need to re-publish the template.
 
 1. In your **Project Content** window.
 2. Find the **My Shared Content** folder on the right side.
