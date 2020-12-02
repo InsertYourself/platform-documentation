@@ -26,7 +26,7 @@ To create a copy to edit:
 
 1. In the **Create** tab, select **Create New**.
 2. In the **Community Projects** option, select **Browse Projects**.
-3. Type `Survival` into the search, and select the project titled **Survival-Framework**.
+3. Type `Survival` into the search, and select the project titled **Survival Starter Kit**.
 4. Give it the name of your project in the **Name** field and press **Download**.
 
 ![Survival Game](../img/Survival/Survival_Game.png){: .center loading="lazy" }
